@@ -15,7 +15,7 @@ public class Product {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int sum = 4 + 4 ;
-		int count;
+		int count = 5;
 		int []arrCount ;
 		System.out.println(sum);
 	}
